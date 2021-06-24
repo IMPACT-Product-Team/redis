@@ -1,6 +1,6 @@
 services:
 - type: pserv
-  name: redis-server
+  name: impact-redis-staging
   env: docker
   disk:
     name: data
